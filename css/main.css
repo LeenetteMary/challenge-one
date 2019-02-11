@@ -43,6 +43,7 @@ body{
 }
 #navbar h1{
     color: yellowgreen;
+    text-align: center;
 }
 #main-doc{
     position: absolute;
@@ -57,15 +58,17 @@ section article{
     font-size:12pt;
 }
 section li {
-    margin:15px 0px 0px 20px;
+    margin:15px 0px 0px 20px; 
 }
 p{
     text-align: justify;
     line-height: 1.5rem;
+    margin-left:20px;
 }
 .main-section h1,h2{
     color: steelblue;
     font-size: 14pt;
+    margin-left:20px;
 }
 table{
     width: 100%;
